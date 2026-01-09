@@ -1,136 +1,82 @@
-# 👨‍💻 Diego Fernando Echeverry | Senior Full Stack Developer, AI & Data Engineer
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Diego%20Fernando%20Echeverry&fontSize=68&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20%7C%20Data%20Engineer&descAlignY=52&descAlign=62)
+# Diego Fernando Echeverry Londoño
 
-[![Website](https://img.shields.io/badge/Website-codytion.com-blue?style=for-the-badge&logo=globe)](https://codytion.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-godie007-100000?style=for-the-badge&logo=github)](https://github.com/godie007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/godie007)
-[![Email](https://img.shields.io/badge/Email-diegof.e3@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:diegof.e3@gmail.com)
+**Senior Full Stack Developer · AI Engineer · Data Engineer**
+
+[![Website](https://img.shields.io/badge/codytion.com-000?style=flat-square&logo=safari&logoColor=white)](https://codytion.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/godie007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/godie007)
+[![Email](https://img.shields.io/badge/diegof.e3@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:diegof.e3@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@godie007)
 
 </div>
 
 ---
 
-## 🚀 Professional Profile
+### About
 
-Senior **Full Stack Developer, AI Engineer, and Data Engineer** with **10+ years of experience** designing and delivering enterprise-grade systems. Specialized in **cloud-native architectures, large-scale data platforms, AI/RAG solutions, and distributed systems**. Strong background building **data pipelines, analytics platforms, and AI-driven products** on Microsoft Azure.
+Full Stack Developer and AI Engineer with **10+ years** building enterprise-grade systems. Currently focused on **RAG architectures**, **cloud-native data platforms**, and **AI-driven solutions** on Microsoft Azure.
 
----
-
-## 🧠 Core Expertise
-
-- **Data Engineering**: Azure Data Factory, Databricks, Delta Lake, Data Pipelines, ETL/ELT  
-- **AI Engineering**: RAG architectures, Azure OpenAI, Cognitive Services, LLM integration  
-- **Full Stack Development**: Node.js, React, TypeScript, REST & GraphQL APIs  
-- **Cloud & DevOps**: Microsoft Azure, AWS, GCP, Docker, Kubernetes, CI/CD  
-- **Blockchain**: Web3, Smart Contracts, Traceability Platforms  
-- **Technical Leadership**: Architecture design, mentoring, delivery ownership  
+Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 
 ---
 
-## 💼 Professional Experience
+### Tech Stack
 
-### 📊 Stefanini LATAM — *Data Engineer / AI Developer*  
-**Jan 2025 – Present**
-- Design and implementation of **enterprise data pipelines** using **Azure Data Factory**
-- Development of **data processing and analytics workflows** with **Databricks and Delta Lake**
-- Integration of structured and unstructured data sources for **AI and RAG systems**
-- Support of end-to-end data lifecycle: ingestion, transformation, storage, and consumption
-- Collaboration with AI teams to enable **data-driven intelligent chatbots and analytics**
+**Languages** · TypeScript · JavaScript · Python · Go · PHP
 
-### 🤖 Stefanini LATAM — *AI Developer / Full Stack Developer*  
-**Dec 2024 – Present**
-- Development of **RAG-based enterprise solutions**
-- Implementation of intelligent chatbots using **Azure OpenAI and Cognitive Services**
-- Deployment and scaling of AI platforms for global enterprise clients
+**Frontend** · React · React Native · Redux · Next.js
 
-### 🚛 Cargologik — *Technical Leader*  
-**Jul 2022 – Apr 2025**
-- Led development of a **multimodal logistics tracking platform**
-- Designed scalable backend and frontend architectures
-- Implemented CI/CD pipelines and ensured system reliability
+**Backend** · Node.js · Express · GraphQL · REST APIs · Serverless
 
-### ⚙️ Kubesoft — *Engineering Leader / Senior Full Stack Developer*  
-**Aug 2020 – Dec 2023**
-- Led full stack development with Node.js, MongoDB, Oracle
-- Designed scalable APIs and cloud architectures
-- Implemented DevOps and agile best practices
+**Data** · Azure Data Factory · Databricks · Delta Lake · ETL/ELT
 
-### 🔗 Beriblock — *Senior Software Engineer*  
-**Oct 2020 – Sep 2021**
-- Built blockchain-based document traceability platforms
-- Developed smart contracts for logistics and compliance systems
+**AI/ML** · Azure OpenAI · RAG · LLMs · Cognitive Services
 
-### 🤖 MEMBO — *Lead Project Manager*  
-**Sep 2018 – Mar 2020**
-- Led IoT and AI projects using Node.js, MQTT, Raspberry Pi, Arduino
-- Integrated real-time hardware–software systems
+**Cloud** · Azure · AWS · GCP · Docker · Kubernetes · Terraform
 
-### 💼 Codytion — *Founder / Lead Project Manager*  
-**Mar 2020 – Present**
-- Software consulting and enterprise solution architecture
-- Project estimation, delivery, and quality assurance
+**Databases** · PostgreSQL · MongoDB · Oracle · MariaDB
+
+**Blockchain** · Web3 · Smart Contracts · Traceability Systems
 
 ---
 
-## 🛠️ Technology Stack
+### Experience
 
-### Data Engineering
-Azure Data Factory · Databricks · Delta Lake · ETL / ELT · Data Modeling · Analytics Pipelines
-
-### Programming Languages
-JavaScript · TypeScript · Python · PHP · Go
-
-### Frontend
-React · React Native · Redux · HTML5 · CSS3 · SASS
-
-### Backend & APIs
-Node.js · Express.js · GraphQL · Serverless
-
-### Cloud & DevOps
-Microsoft Azure · AWS · GCP · Docker · Kubernetes · Terraform
-
-### Databases
-MongoDB · PostgreSQL · Oracle · MariaDB
-
-### AI & ML
-Azure OpenAI · Cognitive Services · RAG Architectures · LLMs
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 – Present | Data Engineer / AI Developer | **Stefanini LATAM** |
+| 2022 – 2025 | Technical Leader | **Cargologik** |
+| 2020 – 2023 | Engineering Leader | **Kubesoft** |
+| 2020 – 2021 | Senior Software Engineer | **Beriblock** |
+| 2018 – 2020 | Lead Project Manager | **MEMBO** |
+| 2020 – Present | Founder | **Codytion** |
 
 ---
 
-## 🎓 Education & Certifications
+### Current Focus
 
-**Bachelor of Computer and Systems Engineering**  
-University of Quindío – Colombia
+→ Building enterprise **RAG systems** and intelligent chatbots with Azure OpenAI
 
-**Certifications**
-- Scrum Master – IT Institute Colombia
-- PSP / TSP Developer – SEI
+→ Designing scalable **data pipelines** with Databricks and Delta Lake
 
----
-
-## 🌍 Languages
-
-- Spanish: Native  
-- English: B2 – Professional Working Proficiency  
+→ Architecting **cloud-native solutions** for global enterprise clients
 
 ---
 
-## 📺 Content & Community
+### Education & Certifications
 
-- YouTube: https://www.youtube.com/@godie007  
-- YouTube: https://www.youtube.com/@diegofernandoecheverry1935  
-- Website: https://codytion.com  
-- GitHub: https://github.com/godie007  
+**B.S. Computer & Systems Engineering** — Universidad del Quindío
+
+`Scrum Master` · `PSP/TSP Developer (SEI)`
 
 ---
 
 <div align="center">
 
-⭐ *Building scalable data platforms and AI-powered systems for real-world impact.* ⭐
+*Building scalable systems that solve real problems.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+**Spanish** (Native) · **English** (B2)
 
 </div>
