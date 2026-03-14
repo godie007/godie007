@@ -16,7 +16,9 @@
 
 ### About
 
-Full Stack Developer and AI Engineer with **10+ years** building enterprise-grade systems. Currently focused on **RAG architectures**, **cloud-native data platforms**, and **AI-driven solutions** on Microsoft Azure.
+Full Stack Developer and AI Engineer with **10+ years** building enterprise-grade systems. Specialized in **RAG architectures**, **cloud-native data platforms**, and **agentic AI solutions** on Microsoft Azure and multi-cloud environments.
+
+Passionate about bridging the gap between cutting-edge AI research and production-ready systems — from intelligent chatbots to automated data pipelines at scale.
 
 Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 
@@ -24,21 +26,17 @@ Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 
 ### Tech Stack
 
-**Languages** · TypeScript · JavaScript · Python · Go · PHP
-
-**Frontend** · React · React Native · Redux · Next.js
-
-**Backend** · Node.js · Express · GraphQL · REST APIs · Serverless
-
-**Data** · Azure Data Factory · Databricks · Delta Lake · ETL/ELT
-
-**AI/ML** · Azure OpenAI · RAG · LLMs · Cognitive Services
-
-**Cloud** · Azure · AWS · GCP · Docker · Kubernetes · Terraform
-
-**Databases** · PostgreSQL · MongoDB · Oracle · MariaDB
-
-**Blockchain** · Web3 · Smart Contracts · Traceability Systems
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | TypeScript · JavaScript · Python · Go · PHP |
+| **Frontend** | React · React Native · Next.js · Redux |
+| **Backend** | Node.js · Express · GraphQL · REST · Serverless |
+| **AI / ML** | Azure OpenAI · RAG · LLMs · LangChain · n8n Agents · Pinecone |
+| **Data** | Azure Data Factory · Databricks · Delta Lake · ETL/ELT · Power BI |
+| **Cloud** | Azure · AWS · GCP · Docker · Kubernetes · Terraform |
+| **Databases** | PostgreSQL · MongoDB · Oracle · MariaDB · InfluxDB |
+| **Blockchain** | Web3 · Smart Contracts · Traceability Systems |
+| **Automation** | n8n · Node-RED · MQTT · IoT integrations |
 
 ---
 
@@ -46,10 +44,12 @@ Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2025 – Present | Data Engineer / AI Developer | **Stefanini LATAM** |
+| 2026 – Present | Senior Full Stack / AI Engineer | **Independent Contractor** |
+| 2023 – 2026 | Senior Software Developer · Data Engineer | **Stefanini / TKE AI Hub** |
 | 2022 – 2025 | Technical Leader | **Cargologik** |
 | 2020 – 2023 | Engineering Leader | **Kubesoft** |
 | 2020 – 2021 | Senior Software Engineer | **Beriblock** |
+| 2019 – 2020 | Senior Software Engineer | **Condor Labs** |
 | 2018 – 2020 | Lead Project Manager | **MEMBO** |
 | 2020 – Present | Founder | **Codytion** |
 
@@ -57,26 +57,40 @@ Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 
 ### Current Focus
 
-→ Building enterprise **RAG systems** and intelligent chatbots with Azure OpenAI
-
-→ Designing scalable **data pipelines** with Databricks and Delta Lake
-
-→ Architecting **cloud-native solutions** for global enterprise clients
+→ Designing and shipping production **RAG systems** and agentic AI workflows with LangChain, n8n, and Azure OpenAI  
+→ Building **real-time AI products** — from OBS plugins with Whisper.cpp to intelligent legal assistants  
+→ Architecting **scalable data pipelines** with Databricks, Delta Lake, and Azure Data Factory  
+→ Publishing technical content on AI engineering, MLOps, and cloud-native architecture
 
 ---
 
 ### Education & Certifications
 
-**B.S. Computer & Systems Engineering** — Universidad del Quindío
+**B.S. Computer & Systems Engineering** — Universidad del Quindío · COPNIA #63208-425177
 
-`Scrum Master` · `PSP/TSP Developer (SEI)`
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| Claude Code in Action | Anthropic | 2026 |
+| Develop Generative AI Applications | IBM | 2026 |
+| Certified Scrum Master | Scrum Agile Institute | — |
+| PSP/TSP Developer | Carnegie Mellon (SEI) | — |
+
+---
+
+### Featured Projects
+
+- 🤖 **TKE AI Hub** — Enterprise AI platform with 28+ microservices, SSE streaming, prompt injection hardening, and RAG pipelines for ThyssenKrupp Elevator (Azure OpenAI · Node.js · Python)
+- 📜 **Yolanda** — RAG-powered legal assistant for Colombian law (Pinecone · n8n · LangChain)
+- 🔒 **Alejandro** — ISO 27001 audit assistant with document-grounded Q&A
+- 🎙️ **Voilà Live** — Real-time OBS caption plugin using Whisper.cpp for live streaming events
+- 🔗 **Cargologik** — Logistics traceability platform with blockchain and real-time tracking
 
 ---
 
 <div align="center">
 
-*Building scalable systems that solve real problems.*
+*Building intelligent systems that solve real problems — from data pipelines to production AI.*
 
-**Spanish** (Native) · **English** (B2)
+**Spanish** (Native) · **English** (Professional Working)
 
 </div>
