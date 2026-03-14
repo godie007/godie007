@@ -82,7 +82,6 @@ Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 - 🤖 **TKE AI Hub** — Enterprise AI platform with 28+ microservices, SSE streaming, prompt injection hardening, and RAG pipelines for ThyssenKrupp Elevator (Azure OpenAI · Node.js · Python)
 - 📜 **Yolanda** — RAG-powered legal assistant for Colombian law (Pinecone · n8n · LangChain)
 - 🔒 **Alejandro** — ISO 27001 audit assistant with document-grounded Q&A
-- 🎙️ **Voilà Live** — Real-time OBS caption plugin using Whisper.cpp for live streaming events
 - 🔗 **Cargologik** — Logistics traceability platform with blockchain and real-time tracking
 
 ---
