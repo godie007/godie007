@@ -31,7 +31,7 @@ Based in Colombia 🇨🇴 · Open to remote opportunities worldwide.
 | **Languages** | TypeScript · JavaScript · Python · Go · PHP |
 | **Frontend** | React · React Native · Next.js · Redux |
 | **Backend** | Node.js · Express · GraphQL · REST · Serverless |
-| **AI / ML** | Azure OpenAI · RAG · LLMs · LangChain · n8n Agents · Pinecone |
+| **AI / ML** | Azure OpenAI · RAG · LLMs · LangChain · n8n Agents · Pinecone | BM Watson · Anthropic · OpenIA · Grok
 | **Data** | Azure Data Factory · Databricks · Delta Lake · ETL/ELT · Power BI |
 | **Cloud** | Azure · AWS · GCP · Docker · Kubernetes · Terraform |
 | **Databases** | PostgreSQL · MongoDB · Oracle · MariaDB · InfluxDB |
